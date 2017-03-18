@@ -23,9 +23,8 @@
 
       <div class="archive">
           <h3 class="archive__subtitle">Introduction</h3>
-          {% for post in site.posts %}
+          {% assign post = site.posts.last %}
           {{ post.content }}
-          {% endfor %}
       </div>
 
     </div>
