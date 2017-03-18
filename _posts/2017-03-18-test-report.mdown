@@ -1,0 +1,92 @@
+---
+title: "Remote Printing User  Test or:
+How I Learned to Stop Worrying and Love Cloud Printing"
+layout: post
+sidebar: true
+---
+
+### Introduction
+
+The Illinois Institute of Technology offers a remote printing service to all students while they are enrolled at the university via several print station locations on campus. The IIT print stations provide a convenient way for users to remotely print documents from their own personal computers.
+
+This report documents the findings from user testing of the IIT remote printing system. The primary purpose of this usability testing was to identify areas of the remote printing system for streamlining with the end goal of increasing use and overall user satisfaction. 
+
+This user testing was completed on behalf of the Office of Technology Services at the Illinois Institute of Technology.  The tests were conducted onsite at the Robert A. Pritzker Science Center by a test administrator and two data loggers; all of whom present throughout the duration of the testing.  All tests were conducted on the users personal Apple MacBooks.  This testing session recorded all users printing preferences, navigational choices, task completion times, and overall satisfaction ratings.
+
+### Summary
+
+The OTS team conducted an onsite usability test at the Robert A. Pritzker Science Center on February 20th, 2017.  The purpose of this test was to investigate the usability of the remote print system and to establish how familiar the average student user was with the service.
+
+Three volunteer students participated in the testing.  Individual testing time varied by participant and ranged from two to almost nine minutes. Identical test scenarios were presented to each of the participants.
+
+Two of the participants were either not aware of the remote printing system or they were misinformed about it.  The third participant was an experienced user and familiar with the process. 
+
+The testing indicated several areas of improvement:
+* Limited product visibility
+* Confusion over what constitutes a print station
+* Lack of clear signage for the print stations
+* Unclear search results for first time users
+
+In general, testing showed that overall the remote printing system was useful but not well understood or much beloved. A marketing push, more visible signage, and a few minor tweaks to search result priority could result in major improvements in both student user awareness and satisfaction.
+
+### Methods
+
+We performed one round of in-person testing at the Robert A. Pritzker Science Center, which was observed and recorded. The testing included three volunteer student users.
+
+Prior to completing Task 1 and 2 student users were asked how long they had attended the Illinois Institute of Technology, whether they owned their own printer, if they preferred to print at home or at school, and if they had used the remote printing service before.  The aim of this questioning was to establish the participant's level of familiarity with the system. We also wanted to see how having to rely on solely the print stations versus having the option to use them or a home printer impacted student user satisfaction.
+
+During testing student users were asked to remote print a picture of a cat to the print station located onsite in the Science Center. The time it took for the participant to set up the remote print function on their personal MacBooks and time it took to release the document from the printer were recorded.  We wanted to see if a lower time installing the system resulted in higher user satisfaction. We also wanted to see how easy the print stations were to locate once the document was ready to be released at the printer and so also recorded the time spent finding the print station and retrieving their document.
+
+### Data
+
+|            | **Years at IIT** | **Printer Owner** | **Printing Preference** | **Task 1 Time** | **Task 2 Time** | **Task Completion** | **Satisfaction Rating** |
+|------------|------------------|-------------------|-------------------------|-----------------|-----------------|---------------------|-------------------------|
+| **User 1** | 2                | No                | School                  | 493 seconds     | 31 seconds      | Yes                 | Somewhat Satisfied      |
+| **User 2** | 3                | Yes               | Home                    | 137 seconds     | N/A             | Yes                 | N/A                     |
+| **User 3** | 3                | Yes               | Home                    | 88 seconds      | 158 seconds     | Yes                 | Somewhat Dissatisfied   |
+
+#### User 1 Testing Summary
+
+User 1 was unaware that students could print remotely from their MacBooks and as such this was their first time using the remote printing application.  They began the test by navigating to the [IIT homepage](iit.edu) and clicking the “Search” tab in the upper right of the screen. After searching for “printer installer on Mac” they clicked on the [first search result](https://www.kentlaw.iit.edu/current-students/information-technology-services/tech-help/configure-a-mac). 
+
+After realizing that the instructions on the webpage were specific to IIT Chicago-Kent College of Law they became visibly frustrated and navigated back to the search page. There they proceeded to click on the [third search](https://ots.iit.edu/printing/student-guest-printers) result where they found a link to install the IIT print package on a MacBook and is noticeably relieved. 
+
+After a quick skim of the instructions User 1 proceeded to successfully install the print package with ease. After installation was complete, they found a picture of a cat via a Google search and printed it with the “cmd+p” keyboard shortcut.  The user selected the “IIT BW Laser” printer as the destination for the document. They did not search for printer location information but correctly guessed that it was the closest available print station. 
+
+Upon printing, User 1 headed to the print location they had recalled seeing on their way into the building. After entering their login credentials they successfully released their cat photo from the printer. In the end, User 1 was somewhat satisfied with the IIT remote print service.
+
+#### User 2 Testing Summary
+
+User 2 reported regularly using the remote printing service to print documents from off-campus and had already configured their MacBook to use the print stations. The user seemed to expect step-by-step instructions from the test administrator and became confused by the lack of them. 
+
+After a short time the user began to show the test administrator and data loggers how they had initially configured their MacBook to print at school.  They completely bypassed the process of downloading the package installer and instead went into their MacBook’s *System Preferences* and clicked to add a printer by IP address.
+
+They then proceeded to text a friend from their phone inquiring for an IP address,which, to the surprise of the testers, they promptly received and inserted into the corresponding text-field in the printer setup dialogue.  The user then proceeded to use the “cmd+p” keyboard shortcut to print a picture of a cat already stored on the user’s local hard drive.
+
+As User 2 and the researchers walked to the print station the user expressed that they were headed towards the “wrong” print station. Which was interesting to the research team as there was only a single print station at the testing location. The user proceeded to explain that the IP address they had received from their friend was for a specific printer in the Robert A. Pritzker Science Center’s mailroom. 
+
+They continued on to say that their friend had provided them with the IP address back when they first enrolled at IIT and that they thought that it was the printer that all students and faculty use. They were unaware that there was designated student print stations.  When the group arrived at the mailroom the cat picture printed from the user’s MacBook was waiting in the print tray.
+
+#### User 3 Testing Summary
+
+User 3 indicated that they had previous experience using the remote printing service from off campus and proceeded to complete the installation process from memory, downloading the printer package from the MyIIT “Training and Support” tab.
+
+After installing the printer package the user searched Google for “cute cat pictures” and printed their selection using the “cmd+p” keyboard shortcut. They then said that they knew from experience that the “IIT BW Laser” printer was the correct location to print to and they scheduled their document to print.
+
+User 3 had to look up their password on their phone when prompted for it at the print station. They explained that the password is generated by a password manager tool and is not easily memorized.  They further revealed that this is the reason that they often do not use the remote print option as it is frustrating to have to enter a password to unlock their phone, then enter a password into an application to receive a password that then then need to enter into the print station itself without the ability to copy and paste the randomized password.
+
+The password fails to work initially and the user became slightly more frustrated but managed to gain access to the system upon a second attempt. After following the prompts on the screen the user released the print from the queue and retrieved their cat picture.  In the end, the user was somewhat dissatisfied with the IIT remote print service.
+
+### Conclusions and Suggestions
+
+Generally, IIT’s remote print service worked as intended. 
+
+Once users navigated to [the proper webpage on the IIT website](https://ots.iit.edu/printing/student-guest-printers), they appeared to have little trouble installing and using the print package. However, the correct webpage could benefit from some increased visibility on the homepage. Perhaps adding a direct link under the drop down “Resources” tab, similar to the links for the Parking Services and Shuttle Bus pages, would result in increased traffic. 
+
+Additionally, when searching for the IIT print package installer using the “Search” tab the [top search result](https://www.kentlaw.iit.edu/current-students/information-technology-services/tech-help/configure-a-mac) is specific to students enrolled at the Chicago-Kent College of Law. While it isn’t too much trouble to have to scroll down to the third search return to find the correct information, ensuring that the printing instructions for the Mies Campus are the top search result would result in less time searching for the system and more time using it.
+
+It became apparent during testing that the remote printing service could stand to benefit from some marketing.  Not all of the users who participated in this study were even aware that the service was offered to all students enrolled at IIT.  Which is troubling given that all of the users who participated in this study had been enrolled for at least two years.  Adding a short presentation on the print stations during new student orientation would be an easy way to combat this lack of awareness. Additionally, something as simple as a semesterly email blast and hanging flyers in high traffic areas might be enough to increase awareness among the existing student body.
+
+Finally, the print stations themselves lack clear and visible signage. Users were either forced to guess where the print stations were or find them from memory.  One user did not even realize that there were designated print stations for students at all. Simply making the print stations a high profile installation could result in higher usages rates among student users.
+
+In conclusion, the OTS remote print system is designed well and works as intended but is in need of an advertising campaign and a more visible presence on campus.

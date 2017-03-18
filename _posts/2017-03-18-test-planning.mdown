@@ -1,0 +1,59 @@
+---
+title: "User Test Planning"
+layout: post
+sidebar: true
+---
+
+1. **Goals**
+    * Increase the number of students who use on-campus printing (therefore, making the university more money)
+    * User friendly enough that a new student can get going with little help
+
+2. **Research Questions**
+    * Is it easy enough to log in?
+    * How easily can students find the print stations on campus?
+    * Does the system provide enough information/feedback to render it usable?
+
+3. **Users**
+    * Current students who are:
+        1. Regular users of teh printers and who are also
+        2. Mac users
+
+4. **Test Script**
+
+    Hello, thank you for joining us today.  On behalf of OTS, we are investigating the usability of the school’s print system.  Today, will be helping us with this by using the printers.  Please feel free to help yourself to a bottle of water while we set up.
+
+    This process with have several phases involving two locations.  For the first part this study, you’ll be seated in this room in front of a MacBook Pro.  For the second part, you’ll be wherever the nearest IIT print station is located.  At each stage, we’ll be giving you tasks to complete.  A researcher will be sitting in the room with you, observing and taking notes.  We will also be timing how long it takes to complete each task.  For the benefit of this researcher, we encourage you to “think out loud” as you complete the tasks.  After you are finished, we may have some questions for you based on our notes.  Remember as you work on the tasks that we are not testing you or your ability; we are testing how well the system works for users like you.
+
+    Do you have any questions for us at this time?
+
+    Before we begin, we have a few questions.  Do you have your own printer?  When you normally print things at school, do you prefer to use your own computer or one of the school’s?  Do you ever print to the school’s printers from home/your dorm?
+
+    In this testing scenario, you’re on campus and you need to print a cute cat picture but you don’t have the printer app installed on your computer.  
+
+    *[Give the user a card with the first task]*
+
+    On this note card, you will find your first task.  We will start the timer when you put your hand on the computer’s mouse.  Please do not touch the mouse until you are ready to begin.  You may begin whenever you are ready.
+
+    *[Give the user a card with the second task]*
+
+    On this note card, you will find your second and final task.  We will start the timer when you put your hand on the computer’s mouse.  Please do not touch the mouse until you are ready to begin.  You may begin whenever you are ready.
+
+5. **Task List**
+    1. Please install the printer app on the MacBook in front of you, and then print a picture of a cat.
+    2. Using the print station in this room, please release the cat image from the print-cloud to the printer.
+
+6. **Data and Evaluation**
+
+    Data collected will be evaluated by both quantitative and qualitative measures.
+
+    * *Quantitative Evaluation*
+        1. How many seconds did it take the user to log in? (Individual times and group average)
+        2. How many seconds did it take to print once logged in? (Individual times and group average)
+        3. How many seconds did it take to install the IIT Print app? (Excluding download and installation time)
+        4. How many seconds between logging in and receiving the printed document? (Individual times and group average)
+
+    * *Qualitative Evaluation*
+        1. Did owning a home printer have an effect on the amount of time it took a user to print?
+        2. Does preferring to use an IIT computer over a personal PC cut down on the amount of time spent printing?
+        3. Does prior experience using cloud-printing from home to IIT cut down on time spent printing?
+        4. Was there a difference in the user’s attitude between the start and end of the test? (Did they become frustrated? Were they pleasantly surprised? Did they panic?)

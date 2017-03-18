@@ -1,0 +1,53 @@
+---
+title: "Personas"
+layout: post
+sidebar: true
+---
+
+### Wang Ermazi
+![Picture of Wang](/images/person1.png)
+
+#### Personal Details
+
+Wang is a second-year undergraduate student at IIT.  She double-majors in applied mathematics and consumer research, analytics, and communication (she’s one of only two students in the latter program).  She moved off-campus this year because she couldn’t stand another year of eating prison food and pink slime and now lives in a nearby apartment complex with a couple of roommates.  Now that she lives off-campus, she needs to get to school early to print out assignments and papers before class.  She can’t afford her own printer, but she wishes there was a way for her to print an assignment from home and have it ready for her at school when she gets to campus.  She is not aware that this is accomplishable using existing infrastructure.
+
+#### Goals
+
+Print documents from her home computer while off-campus and pick them up at school printers at her own convenience, without having to worry about finding an open computer in the MTCC (because while there are a ton of other computer labs, fighting for one of the few terminals at the MTCC is apparently fashionable).
+
+#### Abilities, Skills, and Knowledge
+* Can use most features of web-browsers, but probably doesn’t know keyboard shortcuts to make navigation faster
+* Is a pro at social media
+* Can install a program on her Mac, prefers to install apps from the AppStore when possible
+
+#### Data/Assumptions
+* Does not know that print-stations exist
+* Does not know it’s possible to install IIT printer drivers on personal computer
+* Does not know how to locate the closest/most convenient print station
+* Does not know how to figure out what printers are available at which print locations
+* Does not know where to find information about how to obtain the software necessary to print from personal computer
+
+### Marty Kline
+![Picture of Marty](/images/person2.png)
+
+#### Personal Details
+
+Marty is a third-year ITM masters student at IIT.  He probably lives in his parents’ basement somewhere in the suburbs - not due to financial constraints, but because why move out?  He’s become quite familiar with the IIT remote-print stations, as he likes to download and print articles from InfoWars and Breitbart on the school’s network (he read something from Alex Jones saying that ISPs serve the liberal agenda and report people who try to seek the Truth), but he doesn’t want this data tied to his Hawk account (so, using a school computer is out of the question).  (He does, however, cite this material in some of his classes.  It helps him weed out candidates for the [professor watchlist](http://professorwatchlist.org/).)  Marty is pretty good with computers, but he’s also highly easily [persuaded through emotional appeals and fast, loud speaking](https://en.wikipedia.org/wiki/Elaboration_likelihood_model#Peripheral_route).  So, when he saw a well dressed stranger on YouTube shouting emphatically about how Lenovo computers secretly collect users’ data, which is then shared by Lenovo with the Chinese government, Marty quickly dismantled his Lenovo Flex 3 with an AR-15 and some hollow-point bullets.  He then proceeded to buy a Mac.  After all, even though he’s always been a [PC master race](https://www.reddit.com/r/pcmasterrace/) guy, Apple is [a good American company](http://www.bbc.com/news/business-30532463), and who doesn’t like to buy American?
+
+#### Goal
+
+Marty needs to get IIT’s printer drivers installed on his new MacBook so he can continue to “anonymously” print far-right propaganda, presumably so he has “facts” to use the next time he wants to tell a pesky “snowflake” that the totality of their worldview and lived experiences (and subsequently, most of objective reality, if there can be said to be such a thing) is/are wrong and/or to reinforce his justifications for being inexplicably terrified of his brown-skinned neighbor, Todd.  By happenstance, the school stands to profit by enabling Marty print his disinformation, for which IIT cannot be blamed.  
+
+#### Abilities, Skills, and Knowledge
+
+Penchant for believing “alternative-facts” aside, Marty is good with computers and has pretty well-honed Google-fu skills.  He’ll be able to find and setup the print-package pretty easily, but will still run into familiar problems at the print-stations.  He’s quite proficient at installing, uninstalling, downloading, uploading, and all of those other basic (as well as some advanced) skills one would expect an IIT ITM masters student to have. 
+
+#### Data/ASsumptions
+
+* Is an old hand with the print system, knows how to find the print stations around campus and how to determine which printer types are at what locations.
+* Has an incredibly long, computer-generated MyIIT password and a low frustration-tolerance.  Entering the password means unlocking his phone, unlocking his password manager (with a password), and then manually copying the desired password from his phone to the print-station interface, and wishes there was an easier way… (One that doesn’t compromise his password-strength)
+* Is slightly scared of what happens to his data while it’s in “the cloud” or on the school’s servers, waiting for him to release it from the print-cue at a print-station
+* Is never quite sure what the print-station interface means when it asks for his “username.”  Does it want his whole hawk.iit.edu email address, or just everything up to the ‘@’ symbol?  Only one way works, but he inexplicably manages to always pick the wrong option first.
+
+### Our Data:
+![Picture of post-it notes](/images/postit.jpg)

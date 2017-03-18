@@ -18,16 +18,7 @@
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-    <div id="main" role="main">
-      {% include sidebar.html %}
 
-      <div class="archive">
-          <h3 class="archive__subtitle">Introduction</h3>
-          {% assign post = site.posts.last %}
-          {{ post.content | markdownify}}
-      </div>
-
-    </div>
 
     {{ content }}
 

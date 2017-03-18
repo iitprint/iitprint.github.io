@@ -1,0 +1,9 @@
+---
+title: "Survey"
+layout: post
+sidebar: true
+---
+
+### Planning
+
+<iframe src="https://docs.google.com/spreadsheets/d/1qybmSFq8bVukv7BMCa7Mn2p46Hg6BYegUPC82_zmFeI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
