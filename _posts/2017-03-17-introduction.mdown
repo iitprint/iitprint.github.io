@@ -3,10 +3,3 @@ title: "Introduction"
 ---
 
 As part of a semester-long project for [COM 525: UI/UX Research](https://libbyh.github.io/com525spring2017/), we have endeavored to conduct an evaluation of the [Illinois Institute of Technology's](https://www.iit.edu) remote printing system.  This website serves as a project portfolio.  It contains records of each step of the evaluation process, as well as planning documents and analyses of collected data.
-
-* test
-* test
-
-1. test
-2. test
-3. test

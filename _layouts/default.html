@@ -24,7 +24,7 @@
       <div class="archive">
           <h3 class="archive__subtitle">Introduction</h3>
           {% assign post = site.posts.last %}
-          {{ post.content }}
+          {{ post.content | markdownify}}
       </div>
 
     </div>
