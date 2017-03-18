@@ -18,6 +18,15 @@
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    <div id="main" role="main">
+      {% include sidebar.html %}
+
+      <div class="archive">
+          <h3 class="archive__subtitle">Introduction</h3>
+          
+      </div>
+
+    </div>
 
     {{ content }}
 
@@ -29,6 +38,8 @@
     </div>
 
     {% include scripts.html %}
+
+
 
   </body>
 </html>

@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Our Team"
+    url: https://iitprint.github.io/personnel
+  - title: "COM 525"
+    url: https://libbyh.github.io/com525spring2017/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
