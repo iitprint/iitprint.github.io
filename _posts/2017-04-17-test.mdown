@@ -1,3 +1,9 @@
+---
+title: "Hemant Test"
+layout: post
+sidebar: true
+—
+
 # Project Title
 
 One Paragraph of project description goes here
