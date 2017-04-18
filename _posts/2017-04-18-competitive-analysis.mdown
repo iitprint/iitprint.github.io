@@ -18,7 +18,20 @@ sidebar: true
 
 #### Features Table
 
-<iframe src="https://docs.google.com/spreadsheets/d/16qY0PBBSjVef68VTGueCC7on8Iiic_D3aZ7q7HgZe-4/edit#gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
+|                                                    | Remote Printer | PDF Printer                         | Computer Lab    | Home Printer                                       | Fedex/USPS                                |
+|----------------------------------------------------|----------------|-------------------------------------|-----------------|----------------------------------------------------|-------------------------------------------|
+| Ability to select paper type                       | No             | N/A                                 | No              | Yes                                                | Yes                                       |
+| Account balance tracking                           | Yes            | No                                  | Yes             | No                                                 | No                                        |
+| Cost                                               |                |                                     |                 |                                                    |                                           |
+| Requires installation                              | Yes            | No, not on modern operating-systems | No              | Sometimes                                          | No                                        |
+| Multiple pickup locations                          | Yes            | N/A                                 | No              | No                                                 | No, prints are bound to location on order |
+| Offers remote printing                             | Yes            | N/A                                 | No              | No (well, maybe, if you make it available by HTTP) | Yes                                       |
+| Physical security (password required to get print) | Yes            | N/A                                 | Yes             | No                                                 | No                                        |
+| Prepaid with tuition                               | Yes            | N/A                                 | Yes             | No                                                 | No                                        |
+| Print formats available                            | 5              | N/A                                 | 1-2             | Usually 1-2                                        | Many                                      |
+| Print to turn-in time                              | Low            | N/A                                 | Moderate to low | High, depending on distance from turn-in location  | Depends on location                       |
+
+
 
 |          |                                                    |    | Competitors                       
 |----------|----------------------------------------------------|----------------|-------------------------------------|-----------------|----------------------------------------------------|-------------------------------------------|
@@ -48,7 +61,7 @@ sidebar: true
 
 #### IIT remote print system:
 
-![Picture of Wang](/images/competitive-analysis-1.png)
+![Picture of competitive-analysis-1](/images/competitive-analysis-1.png)
 
 1. This feature is important, as it provides the option to easily select the necessary criteria for the print-job (from the native print-dialogue, with no additional intermediary steps).  It is worth noting, however, that the system does not tell the user the costs associated with the different print options available.
 2. For broke students, the fact that payment is an automatic, background task (no mention of payment is ever made, it just happens) linked to a pre-paid tuition stipend included in tuition is a very useful feature.  Reloading the stipend, however, may be tedious.
@@ -58,7 +71,7 @@ sidebar: true
 
 #### Digital Turn-in
 
-![Picture of Wang](/images/competitive-analysis-2.png)
+![Picture of competitive-analysis-2](/images/competitive-analysis-2.png)
 
 1. “Print to PDF” is a feature of both OS X and Windows these days, and allows users to essentially convert any document into a more-or-less finalized product.
 2. Here, the print-to-turn in time is zero.  There’s not issue of rumpled paper, and the time required to print the document is saved
@@ -66,7 +79,7 @@ sidebar: true
 
 #### Print at print station (not remote accessible)
 
-![Picture of Wang](/images/competitive-analysis-3.png)
+![Picture of competitive-analysis-3](/images/competitive-analysis-3.png)
 
 1. IIT has several print stations not connected to the remote-print network.  These are kiosks at which students log in to a Windows environment, thus linking print jobs to their student accounts.
 2. Because these print stations aren’t networked in the same way as the remote-print stations, it is necessary to make sure you bring the document with you somehow.  For people who dislike the idea of their documents being on the cloud, for whatever reason, this may be seen as a good thing. 
