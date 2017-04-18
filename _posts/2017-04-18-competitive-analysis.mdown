@@ -8,22 +8,31 @@ sidebar: true
 
 
 |-------|------------------|---------------------|
-| **1** | Remote Printer   | Direct Competitor   |
-| **2** | Pdf              | Indirect Competitor |
-| **3** | Computer Lab     | Direct Competitor   |
-| **4** | Home Computer    | Direct Competitor   |
-| **5** | USPS             | Indirect Competitor |
-| **6** | Fedex            | Indirect Competitor |
+|   1   | Remote Printer   | Direct Competitor   |
+|   2   | Pdf              | Indirect Competitor |
+|   3   | Computer Lab     | Direct Competitor   |
+|   4   | Home Computer    | Direct Competitor   |
+|   5   | USPS             | Indirect Competitor |
+|   6   | Fedex            | Indirect Competitor |
 
 
 #### Features Table
 
 <iframe src="https://docs.google.com/spreadsheets/d/16qY0PBBSjVef68VTGueCC7on8Iiic_D3aZ7q7HgZe-4/edit#gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
 
-
-<iframe src="https://docs.google.com/spreadsheets/d/16qY0PBBSjVef68VTGueCC7on8Iiic_D3aZ7q7HgZe-4/edit#gid=0" width="100%" height="400px"></iframe>
-
-<iframe src="https://docs.google.com/spreadsheets/d/1qybmSFq8bVukv7BMCa7Mn2p46Hg6BYegUPC82_zmFeI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
+|          |                                                    |    | Competitors                       
+|----------|----------------------------------------------------|----------------|-------------------------------------|-----------------|----------------------------------------------------|-------------------------------------------|
+| FEATURES |                                                    | Remote Printer | PDF Printer                         | Computer Lab    | Home Printer                                       | Fedex/USPS                                |
+|          | Ability to select paper type                       | No             | N/A                                 | No              | Yes                                                | Yes                                       |
+|          | Account balance tracking                           | Yes            | No                                  | Yes             | No                                                 | No                                        |
+|          | Cost                                               |                |                                     |                 |                                                    |                                           |
+|          | Requires installation                              | Yes            | No, not on modern operating-systems | No              | Sometimes                                          | No                                        |
+|          | Multiple pickup locations                          | Yes            | N/A                                 | No              | No                                                 | No, prints are bound to location on order |
+|          | Offers remote printing                             | Yes            | N/A                                 | No              | No (well, maybe, if you make it available by HTTP) | Yes                                       |
+|          | Physical security (password required to get print) | Yes            | N/A                                 | Yes             | No                                                 | No                                        |
+|          | Prepaid with tuition                               | Yes            | N/A                                 | Yes             | No                                                 | No                                        |
+|          | Print formats available                            | 5              | N/A                                 | 1-2             | Usually 1-2                                        | Many                                      |
+|          | Print to turn-in time                              | Low            | N/A                                 | Moderate to low | High, depending on distance from turn-in location  | Depends on location                       |
 
 
 #### Flow Diagram
