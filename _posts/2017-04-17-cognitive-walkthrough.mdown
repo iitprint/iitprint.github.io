@@ -19,8 +19,8 @@ sidebar: true
 | **Will the user try to achieve the right action?** | Yes              | Yes               | Yes                     | Yes             |
 | **Will the user notice that the correct action is available?** | Yes              | NO - The user needs to search from the website to get into the installation info page              | Yes                     | Yes             |
 | **Will the user associate the correct action with the effect that the user is trying to achieve?** | Yes              | YES - only if the user noticed the installation page, otherwise NO.               | Yes                     | Yes             |
-| **If the correct action is performed, will the user see that progress is being made toward solution of the task?
-** | Yes              | Yes               | Yes                     | Yes             |
+| **Will the user associate the correct action with the effect that the user is trying to achieve?** | Yes              | YES              | Yes                     | Yes             |
+
 
 
 
