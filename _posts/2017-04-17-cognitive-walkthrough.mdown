@@ -6,13 +6,13 @@ sidebar: true
 
 ### Task: User print a cute cat picture from their own computer/laptop but  don’t have the app installed
 
-##Action Sequence:
-    1. Find a cat picture online
-    2. Find the app from IIT website
-    3. Install the IIT Printer remote
-    4. Print the cat picture
+## Action Sequence:
 
-### Data
+1. Find a cat picture online
+2. Find the app from IIT website
+3. Install the IIT Printer remote
+4. Print the cat picture
+
 
 |            | **Find a cat picture online** | **Find the app from IIT website** | **Install the IIT Printer remote** | **Print the cat picture** |
 |------------|------------------|-------------------|-------------------------|-----------------|
