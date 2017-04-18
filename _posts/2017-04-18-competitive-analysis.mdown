@@ -1,0 +1,81 @@
+---
+title: "Competitive Analysis"
+layout: post
+sidebar: true
+---
+
+### List of Competitors
+
+
+|-------|------------------|---------------------|
+| **1** | Remote Printer   | Direct Competitor   |
+| **2** | Pdf              | Indirect Competitor |
+| **3** | Computer Lab     | Direct Competitor   |
+| **4** | Home Computer    | Direct Competitor   |
+| **5** | USPS             | Indirect Competitor |
+| **6** | Fedex            | Indirect Competitor |
+
+
+#### Features Table
+
+<iframe src="https://docs.google.com/spreadsheets/d/16qY0PBBSjVef68VTGueCC7on8Iiic_D3aZ7q7HgZe-4/edit#gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/16qY0PBBSjVef68VTGueCC7on8Iiic_D3aZ7q7HgZe-4/edit#gid=0" width="100%" height="400px"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/1qybmSFq8bVukv7BMCa7Mn2p46Hg6BYegUPC82_zmFeI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
+
+
+#### Flow Diagram
+
+#### Flow-models are arranged in the following pattern:
+
+1. Models are hierarchically arranged, starting with with the primary task (encircled in red) and ending with the goal (encircled in green).
+
+2. At each intermediate level, the subtask is encircled in yellow.
+
+3. Boxes sharing a level with a subtask represent parts of that subtask, or features that facilitate the completion of that subtask.
+
+
+#### IIT remote print system:
+
+![Picture of Wang](/images/competitive-analysis-1.png)
+
+1. This feature is important, as it provides the option to easily select the necessary criteria for the print-job (from the native print-dialogue, with no additional intermediary steps).  It is worth noting, however, that the system does not tell the user the costs associated with the different print options available.
+2. For broke students, the fact that payment is an automatic, background task (no mention of payment is ever made, it just happens) linked to a pre-paid tuition stipend included in tuition is a very useful feature.  Reloading the stipend, however, may be tedious.
+3. One important factor for commuter students may be the time between when they print their document and when they turn it in.  We refer to this as print-to-turn in time.  Lower print-to-turn in times may lead to documents being less rumpled/more professional looking when turned in.  Printing at a location closest to the turn-in location may then be considered a useful feature.
+4. Similarly to being able to choose a suitable location, being able to wait to print and pick up a document until it’s needed enables a lower print-to-turn in time.
+5. Having to enter one’s login credentials before releasing the print job adds a layer of security.  It ensures that no one other than the user will be able to retrieve the user’s document, thus protecting the user’s investment (i.e., the cost of the print) and, possibly, any confidential information contained within the document.
+
+#### Digital Turn-in
+
+![Picture of Wang](/images/competitive-analysis-2.png)
+
+1. “Print to PDF” is a feature of both OS X and Windows these days, and allows users to essentially convert any document into a more-or-less finalized product.
+2. Here, the print-to-turn in time is zero.  There’s not issue of rumpled paper, and the time required to print the document is saved
+
+
+#### Print at print station (not remote accessible)
+
+![Picture of Wang](/images/competitive-analysis-3.png)
+
+1. IIT has several print stations not connected to the remote-print network.  These are kiosks at which students log in to a Windows environment, thus linking print jobs to their student accounts.
+2. Because these print stations aren’t networked in the same way as the remote-print stations, it is necessary to make sure you bring the document with you somehow.  For people who dislike the idea of their documents being on the cloud, for whatever reason, this may be seen as a good thing. 
+3. Here, each print station has a limited number of print options, or sometimes only one option.
+4. Payment is automatic, which is, again, potentially useful for students.
+
+
+
+
+
+#### Takeaways From Comparison
+
+IIT’s Remote Printing service has only two direct competitors, printing at a computer lab and home printing. Printing at a computer lab desktop is our primary direct competitor as it is the only other way to print documents on campus.  If a user wishes to print from their own computer without using the Remote Printing service their only option becomes home printing.
+
+Printing from a computer lab desktop requires that the user have the ability to access the desired document to print locally at the computer lab. Which means it must be already saved on that specific computer, saved onto a portable storage device, or uploaded to a cloud storage service.  Remote Printing has increased convenience over lab printing by eliminating the need for an additional storage medium.  IIT’s remote printing locations are also more secure than the computer labs as the user must release the print task from the print location eliminating any interference by an outside party. Lastly, the remote print stations’ locations offer more opportunities to print close to users’ classes than the computer labs.
+
+Users printing from home have increased security over both Remote Printing and the computer labs. However, as the user must then transport the document to its destination increasing the possibility of loss, damage, or theft of the document. Also, as with Remote Printing, the user eliminates the need for additional storage mediums as the document to be printed is already stored locally. 
+
+Additionally, USPS and FedEx as well as PDF documents represent indirect competitors to the IIT Remote Printing service. USPS and FedEx are the only other service that offers large format printing off campus as most users are unlikely to have invested in large commercial grade printers for home use. However, USPS and FedEx offer their services at a higher price to the user without even taking into account that fact that IIT students have prepaid for on campus printer usage as part of their tuition.  Finally, USPS and FedEx each only have one viable location in close proximity to IIT thereby drastically cutting down on convenience.
+
+Now while PDF documents might offer the highest level of security, integrity, and convenience it is technically not printing and thereby would not satisfy the needs of users who require a physical document to hand in for their classes. (Such as, oddly enough,  in sustainability classes…)
