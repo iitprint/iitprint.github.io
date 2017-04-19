@@ -32,22 +32,6 @@ sidebar: true
 | Print to turn-in time                              | Low            | N/A                                 | Moderate to low | High, depending on distance from turn-in location  | Depends on location                       |
 
 
-
-|          |                                                    |    | Competitors                       
-|----------|----------------------------------------------------|----------------|-------------------------------------|-----------------|----------------------------------------------------|-------------------------------------------|
-| FEATURES |                                                    | Remote Printer | PDF Printer                         | Computer Lab    | Home Printer                                       | Fedex/USPS                                |
-|          | Ability to select paper type                       | No             | N/A                                 | No              | Yes                                                | Yes                                       |
-|          | Account balance tracking                           | Yes            | No                                  | Yes             | No                                                 | No                                        |
-|          | Cost                                               |                |                                     |                 |                                                    |                                           |
-|          | Requires installation                              | Yes            | No, not on modern operating-systems | No              | Sometimes                                          | No                                        |
-|          | Multiple pickup locations                          | Yes            | N/A                                 | No              | No                                                 | No, prints are bound to location on order |
-|          | Offers remote printing                             | Yes            | N/A                                 | No              | No (well, maybe, if you make it available by HTTP) | Yes                                       |
-|          | Physical security (password required to get print) | Yes            | N/A                                 | Yes             | No                                                 | No                                        |
-|          | Prepaid with tuition                               | Yes            | N/A                                 | Yes             | No                                                 | No                                        |
-|          | Print formats available                            | 5              | N/A                                 | 1-2             | Usually 1-2                                        | Many                                      |
-|          | Print to turn-in time                              | Low            | N/A                                 | Moderate to low | High, depending on distance from turn-in location  | Depends on location                       |
-
-
 ### Flow Diagram
 
 ### Flow-models are arranged in the following pattern:
