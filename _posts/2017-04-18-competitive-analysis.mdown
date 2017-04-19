@@ -16,7 +16,7 @@ sidebar: true
 |   6   | Fedex            | Indirect Competitor |
 
 
-#### Features Table
+### Features Table
 
 |                                                    | Remote Printer | PDF Printer                         | Computer Lab    | Home Printer                                       | Fedex/USPS                                |
 |----------------------------------------------------|----------------|-------------------------------------|-----------------|----------------------------------------------------|-------------------------------------------|
@@ -48,9 +48,9 @@ sidebar: true
 |          | Print to turn-in time                              | Low            | N/A                                 | Moderate to low | High, depending on distance from turn-in location  | Depends on location                       |
 
 
-#### Flow Diagram
+### Flow Diagram
 
-#### Flow-models are arranged in the following pattern:
+### Flow-models are arranged in the following pattern:
 
 1. Models are hierarchically arranged, starting with with the primary task (encircled in red) and ending with the goal (encircled in green).
 
@@ -59,7 +59,7 @@ sidebar: true
 3. Boxes sharing a level with a subtask represent parts of that subtask, or features that facilitate the completion of that subtask.
 
 
-#### IIT remote print system:
+### IIT remote print system:
 
 ![Picture of competitive-analysis-1](/images/competitive-analysis-1.png)
 
@@ -69,7 +69,7 @@ sidebar: true
 4. Similarly to being able to choose a suitable location, being able to wait to print and pick up a document until it’s needed enables a lower print-to-turn in time.
 5. Having to enter one’s login credentials before releasing the print job adds a layer of security.  It ensures that no one other than the user will be able to retrieve the user’s document, thus protecting the user’s investment (i.e., the cost of the print) and, possibly, any confidential information contained within the document.
 
-#### Digital Turn-in
+### Digital Turn-in
 
 ![Picture of competitive-analysis-2](/images/competitive-analysis-2.png)
 
@@ -77,7 +77,7 @@ sidebar: true
 2. Here, the print-to-turn in time is zero.  There’s not issue of rumpled paper, and the time required to print the document is saved
 
 
-#### Print at print station (not remote accessible)
+### Print at print station (not remote accessible)
 
 ![Picture of competitive-analysis-3](/images/competitive-analysis-3.png)
 
@@ -90,7 +90,7 @@ sidebar: true
 
 
 
-#### Takeaways From Comparison
+### Takeaways From Comparison
 
 IIT’s Remote Printing service has only two direct competitors, printing at a computer lab and home printing. Printing at a computer lab desktop is our primary direct competitor as it is the only other way to print documents on campus.  If a user wishes to print from their own computer without using the Remote Printing service their only option becomes home printing.
 
