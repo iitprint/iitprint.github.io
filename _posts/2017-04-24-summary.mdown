@@ -1,0 +1,26 @@
+---
+title: "Inspection method assignment - Cognitive Walkthroughs"
+layout: post
+sidebar: true
+---
+
+### Task: User print a cute cat picture from their own computer/laptop but  don’t have the app installed
+
+**Action Sequence:**
+    1. Find a cat picture online
+    2. Find the app from IIT website
+    3. Install the IIT Printer remote
+    4. Print the cat picture
+
+### Data
+
+|            | **Find a cat picture online** | **Find the app from IIT website** | **Install the IIT Printer remote** | **Print the cat picture** |
+|------------|------------------|-------------------|-------------------------|-----------------|
+| **Will the user try to achieve the right action?** | Yes              | Yes               | Yes                     | Yes             |
+| **Will the user notice that the correct action is available?** | Yes              | NO - The user needs to search from the website to get into the installation info page              | Yes                     | Yes             |
+| **Will the user associate the correct action with the effect that the user is trying to achieve?** | Yes              | YES - only if the user noticed the installation page, otherwise NO.               | Yes                     | Yes             |
+| **If the correct action is performed, will the user see that progress is being made toward solution of the task?
+** | Yes              | Yes               | Yes                     | Yes             |
+
+
+
