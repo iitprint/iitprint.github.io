@@ -4,8 +4,6 @@ layout: post
 sidebar: true
 ---
 
-### Executive Summary
-
 This report contains the collective findings from the User Experience team’s evaluation of the Illinois Institute of Technology’s remote printing service.  The evaluation consisted of user testing and surveying, a competitive analysis, persona generation, and a cognitive walkthrough of the IIT Remote Printing service.  This report contains the findings from each aspect of the UX team’s evaluation and suggested resolutions to remaining usability issues with the IIT remote printing service. 
 
 The IIT remote printing UX evaluation revealed that while there are usability elements that need refinement the most pressing issue is one of service visibility.  Testing and surveying discovered a lack of awareness among the user population at IIT of the print station locations. Results indicated that to further compound the matter several potential users were unaware the service even existed. User testing pointed to the secure document retrieval as area that could be streamlined once the service visibility issues are resolved.
@@ -15,11 +13,11 @@ The primary purpose of this usability evaluation was to increase the number of I
 
 ### Suggested Resolutions
 
-..* Change the name
+1. **Change the name**
 While “Remote Printing” is technically correct it does little to convey the advantages the system conveys. Additionally, it is exceptionally bland does not endear hearts or win minds. A name like “Secure Printing” or “HAWKi Printing” would help correct many of the visibility issues the service experiences.
 
-..* Increased Presence of Print Stations
+2. **Increased Presence of Print Stations**
 While the remote print stations service the most trafficked areas of campus, they do not stand out from a traditional computer lab printer sufficiently to be memorable.  Increased signage or a grey and scarlet color scheme would solve this issue.
 
-..* Document Release via HAWKi App
+3. **Document Release via HAWKi App**
 Users who relied on password managers and generators for an additional layer of security found the login process at the print stations to be frustrating. This was mostly due to the need to manually enter the lengthy one-use passwords into the system. Adding a “Document Release” function to the existing HAWKi smartphone app could serve a solution to this problem. As the app requires the user to be logged in this would give security minded users the ability to quickly and easily authenticate their identity.  
