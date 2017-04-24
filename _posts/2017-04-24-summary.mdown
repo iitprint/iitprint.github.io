@@ -13,11 +13,14 @@ The primary purpose of this usability evaluation was to increase the number of I
 
 ### Suggested Resolutions
 
-1. **Change the name**
+**1. Change the name**
+
 While “Remote Printing” is technically correct it does little to convey the advantages the system conveys. Additionally, it is exceptionally bland does not endear hearts or win minds. A name like “Secure Printing” or “HAWKi Printing” would help correct many of the visibility issues the service experiences.
 
-2. **Increased Presence of Print Stations**
+**2. Increased Presence of Print Stations**
+
 While the remote print stations service the most trafficked areas of campus, they do not stand out from a traditional computer lab printer sufficiently to be memorable.  Increased signage or a grey and scarlet color scheme would solve this issue.
 
-3. **Document Release via HAWKi App**
+**3. Document Release via HAWKi App**
+
 Users who relied on password managers and generators for an additional layer of security found the login process at the print stations to be frustrating. This was mostly due to the need to manually enter the lengthy one-use passwords into the system. Adding a “Document Release” function to the existing HAWKi smartphone app could serve a solution to this problem. As the app requires the user to be logged in this would give security minded users the ability to quickly and easily authenticate their identity.  
