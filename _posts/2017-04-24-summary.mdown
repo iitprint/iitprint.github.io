@@ -1,26 +1,25 @@
 ---
-title: "Inspection method assignment - Cognitive Walkthroughs"
+title: "Summary"
 layout: post
 sidebar: true
 ---
 
-### Task: User print a cute cat picture from their own computer/laptop but  don’t have the app installed
+### Executive Summary
 
-**Action Sequence:**
-    1. Find a cat picture online
-    2. Find the app from IIT website
-    3. Install the IIT Printer remote
-    4. Print the cat picture
+This report contains the collective findings from the User Experience team’s evaluation of the Illinois Institute of Technology’s remote printing service.  The evaluation consisted of user testing and surveying, a competitive analysis, persona generation, and a cognitive walkthrough of the IIT Remote Printing service.  This report contains the findings from each aspect of the UX team’s evaluation and suggested resolutions to remaining usability issues with the IIT remote printing service. 
 
-### Data
+The IIT remote printing UX evaluation revealed that while there are usability elements that need refinement the most pressing issue is one of service visibility.  Testing and surveying discovered a lack of awareness among the user population at IIT of the print station locations. Results indicated that to further compound the matter several potential users were unaware the service even existed. User testing pointed to the secure document retrieval as area that could be streamlined once the service visibility issues are resolved.
 
-|            | **Find a cat picture online** | **Find the app from IIT website** | **Install the IIT Printer remote** | **Print the cat picture** |
-|------------|------------------|-------------------|-------------------------|-----------------|
-| **Will the user try to achieve the right action?** | Yes              | Yes               | Yes                     | Yes             |
-| **Will the user notice that the correct action is available?** | Yes              | NO - The user needs to search from the website to get into the installation info page              | Yes                     | Yes             |
-| **Will the user associate the correct action with the effect that the user is trying to achieve?** | Yes              | YES - only if the user noticed the installation page, otherwise NO.               | Yes                     | Yes             |
-| **If the correct action is performed, will the user see that progress is being made toward solution of the task?
-** | Yes              | Yes               | Yes                     | Yes             |
+The primary purpose of this usability evaluation was to increase the number of IIT students using the remoting printing service thereby ensuring that IIT students fully utilize the printing credit allotted to them each semester. The secondary objective was to ensure that the system was intuitive and posed a low barrier of entry for incoming IIT students. Participants consisted of current and former students of the Illinois Institute of Technology. Both undergraduate and graduate students were included in testing and surveys.
 
 
+### Suggested Resolutions
 
+..* Change the name
+While “Remote Printing” is technically correct it does little to convey the advantages the system conveys. Additionally, it is exceptionally bland does not endear hearts or win minds. A name like “Secure Printing” or “HAWKi Printing” would help correct many of the visibility issues the service experiences.
+
+..* Increased Presence of Print Stations
+While the remote print stations service the most trafficked areas of campus, they do not stand out from a traditional computer lab printer sufficiently to be memorable.  Increased signage or a grey and scarlet color scheme would solve this issue.
+
+..* Document Release via HAWKi App
+Users who relied on password managers and generators for an additional layer of security found the login process at the print stations to be frustrating. This was mostly due to the need to manually enter the lengthy one-use passwords into the system. Adding a “Document Release” function to the existing HAWKi smartphone app could serve a solution to this problem. As the app requires the user to be logged in this would give security minded users the ability to quickly and easily authenticate their identity.  
