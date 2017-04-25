@@ -201,6 +201,11 @@ figure {
     transition: $global-transition;
   }
 
+  #bio img{
+  max-width: 60%;
+  border-radius: 100%;
+  }
+
   > a {
     display: block;
   }
@@ -312,4 +317,9 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+#bio img{
+max-width: 60%;
+border-radius: 100%;
 }
