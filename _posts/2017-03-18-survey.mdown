@@ -35,10 +35,10 @@ Unfortunately, at the time of writing, we have only recieved 17 resposnes to our
 **Reasons why people like the remote-print system**
 
 * "It takes forever to open public computer on campus and sometimes many of them do not work."
-* It's quite convenient to print from my own machine than going to school PC, log in to the account and then print.
-* If I have no other options and have to print using IIT's service, I do.
+* "It's quite convenient to print from my own machine than going to school PC, log in to the account and then print."
+* "If I have no other options and have to print using IIT's service, I do."
 
 **Input from people who prefer not to use the remote-print system**
 
 * "I have my own printer so I don't have to use the remote printing. I will use it when I need to get the printing things immediately at school."
-* "I usually use a computer on campus rather than my laptop"
+* "I usually use a computer on campus rather than my laptop."
