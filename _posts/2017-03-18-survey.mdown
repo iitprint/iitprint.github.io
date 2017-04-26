@@ -7,3 +7,38 @@ sidebar: true
 ### Planning
 
 <iframe src="https://docs.google.com/spreadsheets/d/1qybmSFq8bVukv7BMCa7Mn2p46Hg6BYegUPC82_zmFeI/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
+
+### Results
+
+Unfortunately, at the time of writing, we have only recieved 17 resposnes to our survey.  Thus, we statistical power is sorely lacking for virtually all potential analyses.  Below is a summary of our respondents and histograms for the answers to some of the survey questions.  There were no significant relationships between any of the variables, so answers by respondent type (i.e., graduate/undergraduate, transfer/nontransfer) are not shown.  We do see, however, that most of our respondents *are* aware of the school's remote print system, and that most of them find it to be reasonably easy to set up the print client on their personal computers.  We also see that most of our respondents attended new-student orientation, although not all who attended the orientation remember learning about the print system.  This indicates that, should the school wish to onboard more users in the future, orientation would be a good oppurtunity to do so.  Perhaps it would be useful to make the presentation about remote-printing more memorable, or to offer hard-copies of setup instructions (or perhaps free IIT swag, including a flashdrive containing the installers).
+
+| Descriptive Statistics                         |    |
+|------------------------------------------------|----|
+| *Total Respondants*                            | 17 |
+| *Mac Users*                                    | 11 |
+| *PC Users*                                     | 6  |
+| *Undergrad Students*                           | 9  |
+| *Grad Students*                                | 8  |
+| *Transfer Students*                            | 2  |
+| *Attended New Student Orientation*             | 12 |
+| *Learned about Remote Printing at Orientation* | 5  |
+| *Previously Aware of Remote Printing Service*  | 12 |
+
+**Ease of installation**
+
+![histogram1](/images/s1.png)
+
+**How often respondants print**
+
+![histogram1](/images/s2.png)
+
+**Reasons why people like the remote-print system**
+
+* "It takes forever to open public computer on campus and sometimes many of them do not work."
+* It's quite convenient to print from my own machine than going to school PC, log in to the account and then print.
+* If I have no other options and have to print using IIT's service, I do.
+
+**Input from people who prefer not to use the remote-print system**
+
+* "I have my own printer so I don't have to use the remote printing. I will use it when I need to get the printing things immediately at school."
+* "I usually use a computer on campus rather than my laptop"
